@@ -1,4 +1,4 @@
-//RSA encryption and decryption built by Ravi prakash(y10uc256),Rajat vyas(y10uc250)
+//RSA encryption and decryption
 
 #include<stdio.h>  	//Adding header files  
 #include<stdlib.h>
